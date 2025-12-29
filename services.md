@@ -1,25 +1,30 @@
+
+---
+layout: default
+---
+
 # Services
 
-### Structural Design
+### Structural Engineering
 - RCC and Steel Structures
 - Low-rise to High-rise Buildings
 - Seismic and Wind Design
 - Block Masonary
 - Glass Facade Design
 
-### Foundation Design
+### Foundation Engineering
 - Isolated, Combined and Raft Footings
 - Pure Pile and Pile Raft Foundations
 - Bridge Foundation
 - Warehouse or Gable Structure Foundation
 
-### BIM & Analysis
+### BIM & Structural Modeling
 - ETABS & SAFE Modeling
 - Revit Structural Modeling
 - Staad Pro Modelling
 - Draftting
 
-### Industrial Structures
+### Industrial & Specialized Structures
 - Oil Refineries
 - ETP Tanks
 - Steel Bridges or Pipe Supporting Bridge
@@ -27,9 +32,10 @@
 - Juice Clarifier
 - Chimneys
 
-### Audit and Retrofit of Existing Structure
-- Bungalows with BOQs
-- Buildings with BOQs
-- Value Engineering
+### Construction Support
+- Structural Audits
+- Retrofitting & Jacketing
+- Site Engineering Support
+- - Value Engineering
 - BOQ or BBS
 - Cost Optimisation
