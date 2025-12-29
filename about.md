@@ -11,5 +11,5 @@ towers, industrial plants, oil refineries, steel structures and specialized stru
 - B.E Civil Engineering – Sir Syed University
 
 ### Software Skills
-CSI ETABS, CSI SAFE, CSI SAP2000, Staad Pro, AUtodesk Revit, AUtodesk AutoCAD, GEO5,
-ComFlor, Bluebeam, MS Excels(advanced), In-House softwares and Design Sheets
+- CSI ETABS - CSI SAFE - CSI SAP2000 - Staad Pro - Autodesk Revit - Autodesk AutoCAD - GEO5
+- ComFlor - Bluebeam - MS Excels(advanced) - In-House softwares and - Design Sheets
